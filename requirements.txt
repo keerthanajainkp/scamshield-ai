@@ -1,0 +1,3 @@
+# ScamShield AI - Required Python Packages
+# Flask is a beginner-friendly web server framework
+Flask>=3.0.0
